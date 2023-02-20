@@ -386,3 +386,5 @@ class Game(object):
         for player in self.players:
             string = string + str(player)
         return string
+        -your community is amazing i loved it 
+        -thank you!
